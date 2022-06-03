@@ -1,4 +1,4 @@
-﻿namespace AlphaBird
+﻿namespace FlappyBird
 {
     partial class Form1
     {
